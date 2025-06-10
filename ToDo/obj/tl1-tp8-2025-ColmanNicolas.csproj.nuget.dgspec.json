@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\tl1-tp8-2025-ColmanNicolas.csproj": {}
+    "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\ToDo\\tl1-tp8-2025-ColmanNicolas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\tl1-tp8-2025-ColmanNicolas.csproj": {
+    "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\ToDo\\tl1-tp8-2025-ColmanNicolas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\tl1-tp8-2025-ColmanNicolas.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\ToDo\\tl1-tp8-2025-ColmanNicolas.csproj",
         "projectName": "tl1-tp8-2025-ColmanNicolas",
-        "projectPath": "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\tl1-tp8-2025-ColmanNicolas.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\ToDo\\tl1-tp8-2025-ColmanNicolas.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Facultad\\tl1-tp8-2025-ColmanNicolas\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -5,14 +5,18 @@ namespace ModeloTarea
     {
         private static int idIncremental = 0;
         public int TareaID { get; set; }
-        public string Descripcion { get; set; }
+        public string? Descripcion { get; set; }
         public int Duracion { get; set; }
-        public Tarea(string desc, int durac)
+        public Tarea(string? desc, int durac)
         {
             idIncremental++;
             TareaID = idIncremental;
             Descripcion = desc;
             Duracion = durac;
+        }
+        public void MostrarTarea()
+        {
+            Console.WriteLine($"[{this.TareaID}] {this.Descripcion} - {this.Duracion} minutos");
         }
     }
 
