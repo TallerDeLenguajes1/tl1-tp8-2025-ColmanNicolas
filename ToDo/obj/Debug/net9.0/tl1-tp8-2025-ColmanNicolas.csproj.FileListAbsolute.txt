@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\bin\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.exe
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\bin\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.deps.json
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\bin\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.runtimeconfig.json
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\bin\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.dll
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\bin\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.pdb
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.AssemblyInfo.cs
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.sourcelink.json
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.dll
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\refint\tl1-tp8-2025-ColmanNicolas.dll
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.pdb
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\tl1-tp8-2025-ColmanNicolas.genruntimeconfig.cache
+C:\Users\user\Desktop\Facultad\tl1-tp8-2025-ColmanNicolas\obj\Debug\net9.0\ref\tl1-tp8-2025-ColmanNicolas.dll
